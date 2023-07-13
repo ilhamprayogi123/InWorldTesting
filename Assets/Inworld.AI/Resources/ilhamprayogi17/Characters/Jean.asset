@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0447596b1a67de49ba5720fda0bdabe, type: 3}
+  m_Name: Jean
+  m_EditorClassIdentifier: 
+  characterName: Amanda
+  brain: workspaces/testingai/characters/jean
+  avatar: {fileID: 0}
+  workspace: workspaces/testingai
+  currentScene: workspaces/testingai/characters/jean
+  ownerShip: 0
+  defaultThumbnail: {fileID: 2800000, guid: 3e93b724653606848a2f52917df3bfe1, type: 3}
+  index: 0
+  triggers: []
+  scenes:
+  - workspaces/testingai/scenes/the_bar
+  - workspaces/testingai/scenes/the_forest
+  modelUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_model/dd3384f9-6476-496f-a55f-dde0cce63526.glb
+  posUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/dd3384f9-6476-496f-a55f-dde0cce63526_posture.jpg
+  previewImgUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/dd3384f9-6476-496f-a55f-dde0cce63526_portrait.jpg
+  characterID: 4a34543b-2514-4514-9ecc-76bb197269ce

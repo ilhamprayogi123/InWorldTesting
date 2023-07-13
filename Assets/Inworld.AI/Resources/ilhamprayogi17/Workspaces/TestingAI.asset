@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 679553faa086cdc48a58556300e27230, type: 3}
+  m_Name: TestingAI
+  m_EditorClassIdentifier: 
+  title: TestingAI
+  fullName: workspaces/testingai
+  characters:
+  - {fileID: 11400000, guid: e3f4664ae776f6b4dbad76e9194c8732, type: 2}
+  - {fileID: 11400000, guid: 5996fe6239c03cc44b52d8f1593a694f, type: 2}
+  - {fileID: 11400000, guid: 770b11b893b09744193c6e53a3e112c9, type: 2}
+  - {fileID: 11400000, guid: f3552e77e43ec50498a83191a95433b5, type: 2}
+  - {fileID: 11400000, guid: cfea2c8c184781842b99060840e405db, type: 2}
+  scenes:
+  - {fileID: 11400000, guid: ab95bf4898d2031488868076a560dfa6, type: 2}
+  - {fileID: 11400000, guid: ec314cf2060f98941ba1c58f7b02cd28, type: 2}
+  integrations:
+  - {fileID: 11400000, guid: b866b51f60ff27e46909c9949b9354db, type: 2}
+  index: 0
